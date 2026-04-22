@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<div id="dday" style="text-align:center; background:linear-gradient(135deg,#1a5276,#2e86c1); color:white; padding:1rem; border-radius:8px; margin-bottom:1.5rem; font-size:1.1rem;">
+  <span id="dday-text">Loading...</span>
+</div>
+<script>
+(function(){
+  var dep = new Date(2026, 4, 28, 23, 35); // 5/28 23:35 출발
+  var now = new Date();
+  var diff = Math.ceil((dep - now) / (1000*60*60*24));
+  var el = document.getElementById('dday-text');
+  if(diff > 0) el.textContent = '✈️ 출발까지 D-' + diff;
+  else if(diff === 0) el.textContent = '✈️ 오늘 출발!';
+  else el.textContent = '🏔 여행 중!';
+})();
+</script>
+
 ## 여행 구성
 
 | 그룹 | 기간 | 멤버 |
