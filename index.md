@@ -39,11 +39,12 @@ layout: default
 
 | 페이지 | 내용 |
 |--------|------|
-| [📋 할 일 (TODO)](docs/todo) | 시기별 할 일, 예약, 연락 일정, WhatsApp 템플릿 |
+| [📋 할 일 (TODO)](docs/todo) | 시기별 할 일, 예약, 연락, WhatsApp 템플릿 |
+| [🧳 준비물](docs/packing) | 여행 준비물, 한식 준비물, 식품 검역 규정 |
 | [✅ 이동 체크리스트](docs/moving-checklist) | 항공, 렌트, 숙소, 이동 절차 |
 | [📅 일별 일정](docs/itinerary) | 상세 일정 + 현지 시설(위치, 운영시간, 비용) |
 | [🚼 카시트 가이드](docs/carseat) | Evenflo Tribute 4단계 설치 (한/영) |
-| [🆘 비상/현지정보](docs/emergency) | 비상연락처, 운전, 날씨, 조달, 유용한 앱 |
+| [🆘 비상/현지정보](docs/emergency) | 비상연락처, 운전, 날씨, 유용한 앱 |
 
 ---
 
