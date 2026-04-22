@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/@pimer/cayman-theme@latest/css/cayman.min.css">
+  <style>
+    .page-header { padding: 1.5rem 1rem; }
+    .page-header h1 { font-size: 1.6rem; margin-bottom: 0.2rem; }
+    .page-header h2 { font-size: 1rem; }
+    .main-content { max-width: 64rem; margin: 0 auto; padding: 2rem 1rem; font-size: 15px; }
+    .main-content h1 { font-size: 1.5rem; border-bottom: 2px solid #159957; padding-bottom: 0.3rem; }
+    .main-content h2 { font-size: 1.25rem; }
+    .main-content h3 { font-size: 1.1rem; }
+    .main-content table { font-size: 14px; }
+    .main-content table th, .main-content table td { padding: 6px 10px; }
+    .main-content code, .main-content pre { font-size: 13px; }
+    @media screen and (max-width: 600px) {
+      .main-content { padding: 1rem 0.8rem; font-size: 14px; }
+      .main-content table { font-size: 13px; }
+      .main-content table th, .main-content table td { padding: 4px 6px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="page-header" role="banner" style="background-image: linear-gradient(120deg, #155799, #159957);">
+    <h1 class="project-name" style="color:white;">{{ site.title }}</h1>
+    <h2 class="project-tagline" style="color:rgba(255,255,255,0.8);">{{ site.description }}</h2>
+  </header>
+  <main class="main-content" role="main">
+    {{ content }}
+  </main>
+</body>
+</html>
