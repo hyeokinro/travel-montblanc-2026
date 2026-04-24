@@ -87,6 +87,18 @@ layout: default
 
 ---
 
+## 유모차 현지 렌탈
+
+유모차가 파손되거나 추가로 필요할 경우:
+
+| 항목 | 내용 |
+|------|------|
+| 사이트 | [location-de-poussette.fr](https://www.location-de-poussette.fr/baby-equipment/stroller/rental-stroller-mountain-buggy-familib.html) |
+| 서비스 | 산악용 유모차(Mountain Buggy) 등 렌탈 |
+| 배송 | 숙소 배송 가능 여부 사이트에서 확인 |
+
+---
+
 ## 유용한 앱
 
 | 앱 | 용도 |
