@@ -109,4 +109,64 @@ layout: default
 
 ---
 
+## 📋 Blédina 12개월+ (Blédichef) 제품 라인업
+
+까르푸에서 가장 많이 보이는 접시형(230g) 시리즈. 전자레인지/중탕으로 데워서 바로 먹이기.
+
+### 고기+채소
+
+| 제품명 | 주요 식재료 |
+|--------|-----------|
+| Hachis Parmentier | 소고기, 감자 |
+| Petits Spaghetti Bolognaise | 소고기, 파스타, 토마토 |
+| Pommes de Terre Petits Pois Veau | 송아지(veau), 감자, 완두콩 |
+| Patate Douce Légumes Poulet | 닭고기, 고구마, 채소 |
+| Pommes de Terre Champignons Poulet | 닭고기, 감자, 버섯 |
+| Lasagnes Bolognaise | 소고기, 파스타, 토마토 |
+| Couscous Végétal Pois Chiches | 쿠스쿠스, 병아리콩 (채식) |
+
+### 해산물+채소
+
+| 제품명 | 주요 식재료 |
+|--------|-----------|
+| Ratatouille Duo de Poissons | 흰살생선(merlu), 라따뚜이(가지, 호박, 토마토, 피망) |
+| Lasagnes Épinards Merlu | 흰살생선, 시금치, 파스타 |
+| Légumes Colin Riz | 대구(colin), 채소, 밥 |
+
+### 저녁용 (고기/생선 없이)
+
+| 제품명 | 주요 식재료 |
+|--------|-----------|
+| Mouliné Carottes Semoule | 당근, 세몰리나(밀) |
+| Crémeux Potiron Panais Kiri | 호박, 파스닙(panais), 크림치즈 |
+| Fondue Poireaux Pommes de Terre | 부추/리크(poireaux), 감자 |
+| Panais Riz Champignons | 파스닙, 밥, 버섯 |
+| Carottes Pâtes Épinards Emmental | 당근, 파스타, 시금치, 에멘탈 치즈 |
+
+### 외출용 팁
+
+- **접시형(assiette)**: 전자레인지 필요 → 숙소용
+- **파우치(gourde)**: 데울 필요 없음 → **외출 점심용으로 최적**
+- **병(pot)**: 중탕 또는 전자레인지 → 숙소용
+
+---
+
+## 🇰🇷 한국에서 미리 먹여볼 식재료
+
+위 라인업 중 **한국 이유식에서 잘 안 쓰는 식재료**. 출발 전 한번씩 테스트하면 현지 이유식 선택 폭이 넓어져요.
+
+- [ ] **파스닙(panais)** — 한국에서 안 흔함. 순무/감자로 비슷하게 테스트
+- [ ] **부추/리크(poireaux)** — 한국 부추보다 대파에 가까운 맛
+- [ ] **세몰리나/쿠스쿠스** — 밀 제품. 파스타 OK면 비슷
+- [ ] **에멘탈 치즈** — 치즈 반응 확인
+- [ ] **병아리콩** — 알레르기 확인 필요
+- [ ] **가지** — 라따뚜이 재료. 한국 아기에게 생소할 수 있음
+- [ ] **버섯(champignons)** — 양송이 기준
+- [ ] **호박(potiron)** — 단호박과 비슷. 이미 먹어봤을 수 있음
+- [ ] **흰살생선(merlu/colin)** — 대구/명태 먹으면 비슷
+
+> 💡 현지에서 처음 사면 **순한 맛부터**: Hachis Parmentier(소고기+감자), Mouliné Carottes(당근+세몰리나)가 가장 무난해요.
+
+---
+
 *마지막 업데이트: 2026-04-22*
