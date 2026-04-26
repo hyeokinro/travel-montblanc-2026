@@ -66,11 +66,11 @@ layout: default
 | 품목 | 브랜드 | 비고 |
 |------|--------|------|
 | 기저귀 | **Pampers** | 사이즈 한국과 동일. 현재 한국에서 6단계 사용 중 → 프랑스도 **taille 6** (13kg+) 구매 |
-| 기저귀 (저렴) | **Carrefour Baby** | Pampers 절반 가격. 품질 괜찮다는 평 |
+
 | 물티슈 | **Pampers** 또는 **Carrefour Baby** | 아기 코너 lingettes로 검색 |
 | 수영기저귀 | **Pampers Splashers** 또는 **Huggies Little Swimmers** | 스파용. 아기 코너에서 구매 가능 |
 
-> 한국과 프랑스 Pampers 사이즈 체계 동일(kg 기준). 한국에서 6단계 쓰고 있으니 프랑스에서도 **taille 6** 구매.
+> 한국과 프랑스 사이즈 체계 동일(kg 기준). 낮 **taille 5**, 밤 팬츠 **taille 6**.
 
 ---
 
