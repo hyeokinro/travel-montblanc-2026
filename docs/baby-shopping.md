@@ -70,7 +70,7 @@ layout: default
 | 물티슈 | **Pampers** 또는 **Carrefour Baby** | 아기 코너 lingettes로 검색 |
 | 수영기저귀 | **Pampers Splashers** 또는 **Huggies Little Swimmers** | 스파용. 아기 코너에서 구매 가능 |
 
-> 한국과 프랑스 사이즈 체계 동일(kg 기준). 낮 **taille 5**, 밤 팬츠 **taille 6**.
+> 한국과 프랑스 사이즈 체계 동일(kg 기준). 낮/밤 모두 **taille 6**. 매장에서 "Pampers taille 6"으로 찾으면 됨.
 
 ---
 
