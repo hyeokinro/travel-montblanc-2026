@@ -62,6 +62,7 @@ layout: default
 | [📅 일별 일정](docs/itinerary) | 상세 일정 + 현지 시설(위치, 운영시간, 비용) |
 | [🚼 카시트 가이드](docs/carseat) | Evenflo Tribute 4단계 설치 (한/영) |
 | [🛂 출입국 카드](docs/immigration-cards) | 어르신용 영어 안내 카드 (입국/출국 심사용) |
+| [🥩 식료품 구매 가이드](docs/grocery-guide) | 고기 부위 한↔불 비교, 채소, 정육코너 실전 팁 |
 | [🍼 현지 아기용품](docs/baby-shopping) | 까르푸 이유식, 기저귀, 약국 구매 가이드 |
 | [🆘 비상/현지정보](docs/emergency) | 비상연락처, 운전, 날씨, 유용한 앱 |
 
